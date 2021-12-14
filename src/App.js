@@ -12,7 +12,7 @@ export default function App() {
         {
             type: 'video',
             url: 'https://www.youtube.com/embed/dVkK36KOcqs?rel=0&amp;controls=0&amp;showinfo=0',
-            views: 14
+            views: 77
         },
         {
             type: 'article',
